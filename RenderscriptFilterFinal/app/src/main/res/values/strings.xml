@@ -1,0 +1,4 @@
+<resources>
+    <string name="button_name">Execute</string>
+    <string name="app_name">RenderscriptFilter</string>
+</resources>
